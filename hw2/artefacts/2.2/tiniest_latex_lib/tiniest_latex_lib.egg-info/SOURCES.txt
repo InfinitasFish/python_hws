@@ -1,0 +1,7 @@
+setup.py
+tiniest_latex_lib/__init__.py
+tiniest_latex_lib/modules.py
+tiniest_latex_lib.egg-info/PKG-INFO
+tiniest_latex_lib.egg-info/SOURCES.txt
+tiniest_latex_lib.egg-info/dependency_links.txt
+tiniest_latex_lib.egg-info/top_level.txt
